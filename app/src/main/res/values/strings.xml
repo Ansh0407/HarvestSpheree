@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">HarvestSphere</string>
+    <string name="buttonSelectPhoto">Select Photo</string>
+    <string name="buttonTakePhoto">Start Camera</string>
+    <string name="buttonDiagnose">Detect</string>
+    <string name="defaultImage">Default image set now...</string>
+    <string name="descriptionImage">View for displaying image</string>
+    <string name="navigation_drawer_open">drawer open\n</string>
+    <string name="navigation_drawer_close">close nav drawer</string>
+    <string name="login_signup">Login/Signup</string>
+    <string name="home">Home</string>
+    <string name="weather_forecast">Weather Forecast</string>
+    <string name="selling_crops">Selling Crops</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP SENT TO</string>
+    <string name="we_will_send_you_an_otp">We will send you an OTP</string>
+    <string name="didn_t_recieve_the_otp">Didn\'t receive the OTP?</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="CityName">City Name</string>
+    <string name="login">Login</string>
+
+    <string name="facts">facts</string>
+
+
+    <string name="password">password</string>
+    <string name="loginEmail">Email Id</string>
+    <string name="loginAsFarmer">Login As Farmer</string>
+    <string name="loginAsRetailer">Login As Retailer</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="emailID">Email ID</string>
+    <string name="signUpPassword">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="signUp">Sign Up</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="sendVerificationCode">send verification code</string>
+    <string name="enterCode">Enter Code</string>
+    <string name="verifyCode">verify code</string>
+    <string name="address">Enter your farm address</string>
+    <string name="letsVerify"><b>Lets verify your phone number!</b></string>
+    <string name="title_activity_farmer_sale">FarmerSaleActivity</string>
+</resources>

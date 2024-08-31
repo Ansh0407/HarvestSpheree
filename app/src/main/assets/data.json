@@ -1,0 +1,116 @@
+    {
+    "crops": [
+        {
+            "name": "Wheat",
+            "season": "Rabi",
+            "pricePerKg": 20.0,
+            "image": "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/science/wheat-yields-boosted-and-protein-content-increased-by-up-to-25-study/15414079-1-eng-GB/Wheat-yields-boosted-and-protein-content-increased-by-up-to-25-study.jpg",
+            "soilType": "Loamy",
+            "description": "Wheat is a staple grain crop and is grown mainly in Rabi season."
+        },
+        {
+            "name": "Rice",
+            "season": "Kharif",
+            "pricePerKg": 18.0,
+            "image": "https://cdn.britannica.com/17/176517-050-6F2B774A/Pile-uncooked-rice-grains-Oryza-sativa.jpg",
+            "soilType": "Clayey",
+            "description": "Rice is the most widely consumed staple food for a large part of the world's human population."
+        },
+        {
+            "name": "Maize",
+            "season": "Kharif",
+            "pricePerKg": 25.0,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL0vbcYo0-aKroYAVK1otsIQmLvfajGVfBLfUhRT5Qm8fmATjHNaJ8krwwA62vSrl4hio&usqp=CAU",
+            "soilType": "Sandy",
+            "description": "Maize is a versatile crop used for food, fodder, and industrial purposes."
+        },
+        {
+            "name": "Cotton",
+            "season": "Kharif",
+            "pricePerKg": 80.0,
+            "image": "https://images.ctfassets.net/3s5io6mnxfqz/4TV7YTCO1DJuMhhn7RD1Ol/b5a6c12340e6529a86bc1b557ed2d8f8/AdobeStock_136921602.jpeg",
+            "soilType": "Black",
+            "description": "Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case."
+        },
+        {
+            "name": "Potato",
+            "season": "Rabi",
+            "pricePerKg": 15.0,
+            "image": "https://5.imimg.com/data5/PG/NW/IT/SELLER-11398206/patato-500x500.jpg",
+            "soilType": "Loamy",
+            "description": "Potatoes are a staple food crop, rich in carbohydrates and a key ingredient in many dishes."
+        }
+    ],
+    "pesticides": [
+        {
+            "name": "Neem Oil",
+            "pricePerLiter": 200.0,
+            "image": "https://www.marthastewart.com/thmb/_HY4Q4ecxvEQA77Z1b5aspysP7M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ms-neem-oil-f4b8278443e84e26b8ee47c4a1e1103d.jpg",
+            "crops": ["Wheat", "Rice", "Maize"],
+            "description": "Neem oil is a natural pesticide used for a wide range of garden pests."
+        },
+        {
+            "name": "Chlorpyrifos",
+            "pricePerLiter": 350.0,
+            "image": "https://3.imimg.com/data3/DP/IN/GLADMIN-101950/chlorpyrifos-250x250.jpg",
+            "crops": ["Cotton", "Maize"],
+            "description": "Chlorpyrifos is an organophosphate pesticide used to control various pests."
+        },
+        {
+            "name": "Copper Sulfate",
+            "pricePerKg": 150.0,
+            "image": "https://www.himedialabs.com/media/catalog/product/cache/877ab4ac479bafc7781763a993c9e527/p/c/pct0104-500g_1.png",
+            "crops": ["Potato", "Tomato"],
+            "description": "Copper sulfate is used as a fungicide, herbicide, and pesticide."
+        }
+    ],
+    "fertilizers": [
+        {
+            "name": "Urea",
+            "pricePerKg": 6.0,
+            "image": "https://cdn.dotpe.in/longtail/store-items/2393421/6vOF7od0.jpeg",
+            "crops": ["Wheat", "Rice", "Maize"],
+            "description": "Urea is a nitrogen-based fertilizer used widely to promote crop growth."
+        },
+        {
+            "name": "Potash",
+            "pricePerKg": 18.0,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwwJ_IDe4SM9EgAdKslJ1xfIGW-j8K_Zz-nA&s",
+            "crops": ["Cotton", "Potato"],
+            "description": "Potash is a key ingredient for improving plant health and crop yields."
+        },
+        {
+            "name": "DAP (Diammonium Phosphate)",
+            "pricePerKg": 25.0,
+            "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/344952224/JH/DH/HL/80507133/diammonium-phosphate-food-grade.jpg",
+            "crops": ["Rice", "Maize"],
+            "description": "DAP is a high-phosphorus fertilizer, essential for root development."
+        }
+    ],
+    "tools": [
+        {
+            "name": "Tractor",
+            "price": 500000.0,
+            "image": "https://thumbs.dreamstime.com/b/new-red-tractor-1326711.jpg",
+            "description": "A tractor is a powerful vehicle used for various farming tasks."
+        },
+        {
+            "name": "Plow",
+            "price": 15000.0,
+            "image": "https://t3.ftcdn.net/jpg/03/11/22/90/360_F_311229028_dBcSdFrl6lJpsRds9FA1xViVxpwYmXMG.jpg",
+            "description": "A plow is used for turning and loosening soil before planting."
+        },
+        {
+            "name": "Seed Drill",
+            "price": 25000.0,
+            "image": "https://shaktimanagro.com/wp-content/uploads/2017/02/5.-Mechanical-Seed-Drill.jpg",
+            "description": "A seed drill is used for planting seeds at the correct depth and spacing."
+        },
+        {
+            "name": "Sprayer",
+            "price": 8000.0,
+            "image": "https://5.imimg.com/data5/SELLER/Default/2021/1/HW/FZ/PP/120650822/agricultural-knapsack-sprayer.jpg",
+            "description": "A sprayer is used to apply pesticides, herbicides, or fertilizers."
+        }
+    ]
+}
